@@ -1,4 +1,5 @@
 
+
 <!-- PROJECT LOGO -->
 <p>
   <h3 align="center">🔫Russian Roulette⚖</h3>
@@ -46,7 +47,7 @@ Russian refers to the supposed country of origin, and roulette to the element of
 [🎬YouTube](https://www.youtube.com/watch?v=lZp1kMKyxPo&feature=youtu.be)
 
 ### Srceenshots
-
+![image 1](https://user-images.githubusercontent.com/55324828/123311934-25480700-d541-11eb-807a-396028c1d991.png) ![image 2](https://user-images.githubusercontent.com/55324828/123311959-2a0cbb00-d541-11eb-81ba-66d6e84bf8a7.png)
 
 <!-- CONTACT -->
 ## Contact
